@@ -1,0 +1,12 @@
+.nav-links {
+  list-style-type: none;
+  float: right;
+  display: flex;
+  gap: 80px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
