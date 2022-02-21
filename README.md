@@ -18,6 +18,10 @@ This project is calculator.
 - CSS
 - react js
 
+## Live Demo
+[heroku](https://math-magicians42.herokuapp.com/)
+
+[Netfliy](https://priceless-volhard-9289d9.netlify.app/)
 
 ## Getting Started
 To get the content of this project locally you need to run this command in your terminal:
