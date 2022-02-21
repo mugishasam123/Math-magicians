@@ -1,0 +1,21 @@
+body {
+  background-color: #cacfd5;
+}
+
+.nav-links {
+  list-style-type: none;
+  float: right;
+}
+
+.second-heading {
+  font-size: 27px;
+  text-align: center;
+}
+
+.app-description {
+  text-align: center;
+  padding-top: 70px;
+  font-size: large;
+  padding-left: 80px;
+  padding-right: 80px;
+}

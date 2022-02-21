@@ -1,0 +1,32 @@
+.App {
+  width: 30%;
+  margin: auto;
+}
+
+.result {
+  background: grey;
+  padding: 12px;
+  text-align: right;
+  color: white;
+  font-size: larger;
+}
+
+.buttons {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.input {
+  padding: 12px;
+  border: 1px solid;
+  border-color: grey;
+}
+
+.operator {
+  background-color: #ffa262;
+  border-bottom: white;
+}
+
+.zero {
+  grid-column: span 2;
+}
