@@ -67,6 +67,7 @@ $ npm start # this will open it in the browser and enable hot reloading
 
 - GitHub: [mugishasamuel](https://github.com/mugishasam123)
 - LinkedIn: [mugishasamuel](https://www.linkedin.com/in/mugisha-samuel-55a905208/)
+- Twitter: [mugishasamuel](https://twitter.com/mugishasamuel42/)
 
 <br>
 
