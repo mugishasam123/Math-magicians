@@ -11,7 +11,7 @@
 
 # Live Demo
 
-[Live Link](https://sambookstore.netlify.app/)
+[Live Link](https://math-magicians42.herokuapp.com/)
 
 <br/>
 
